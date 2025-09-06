@@ -4,4 +4,4 @@ my first client based project, successfully delivered.
 
 # project link given below.
 
-# https://avanipluscopperwater.netlify.app/
+# https://avaniplus.netlify.app/
